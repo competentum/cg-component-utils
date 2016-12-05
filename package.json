@@ -1,0 +1,30 @@
+{
+  "name": "cg-component-utils",
+  "version": "1.0.0",
+  "description": "Competentum Group components utils",
+  "main": "index.js",
+  "pre-commit": [
+    "test"
+  ],
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/competentum/cg-component-utils.git"
+  },
+  "keywords": [
+    "Competentum",
+    "Group"
+  ],
+  "author": "Alexey Pilyugin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/competentum/cg-component-utils/issues"
+  },
+  "homepage": "https://github.com/competentum/cg-component-utils#readme",
+  "devDependencies": {
+    "jest-cli": "^17.0.3",
+    "pre-commit": "^1.1.3"
+  }
+}
