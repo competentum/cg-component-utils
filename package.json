@@ -1,6 +1,6 @@
 {
   "name": "cg-component-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Competentum Group components utils",
   "main": "index.js",
   "pre-commit": [
